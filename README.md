@@ -21,3 +21,8 @@ day_of_the_week: Indicates whether the order is placed on a weekday or weekend (
 rating: Rating given by the customer out of 5
 food_preparation_time: Time (in minutes) taken by the restaurant to prepare the food. This is calculated by taking the difference between the timestamps of the restaurant's order confirmation and the delivery person's pick-up confirmation.
 delivery_time: Time (in minutes) taken by the delivery person to deliver the food package. This is calculated by taking the difference between the timestamps of the delivery person's pick-up confirmation and drop-off information
+
+Conclusions:-
+Order Patterns and Customer Preferences - Certain restaurants and cuisine types are more popular, particularly on weekends. Identifying these can help tailor marketing strategies to peak times and popular offerings.
+
+Customer Segmentation - A small number of customers account for a large number of orders. These frequent customers are valuable and may benefit from targeted loyalty programs.
